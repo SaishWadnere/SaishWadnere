@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Saish Wadnere
 
-<!--
-**SaishWadnere/SaishWadnere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm **Saish Milind Wadnere**, a Second-Year Engineering student at Sandip Institute of Technology and Research Centre, Nashik.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 📍 Nashik, India  
+- 💻 Passionate about Technology & Software Development  
+- 🧠 Strong in Problem Solving & Mathematics  
+- 🤖 Interested in AI & Machine Learning  
+- 📈 Regularly solving problems on LeetCode  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💡 Programming Languages
+- Java  
+- Python  
+- JavaScript  
+- TypeScript  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- Tailwind CSS  
+- React.js  
+- React Router  
+- Redux Toolkit  
+
+### 🗄️ Database
+- MySQL  
+
+---
+
+## 📊 Core Skills
+- Data Structures & Algorithms (DSA)  
+- Object-Oriented Programming (OOP)  
+- Problem Solving  
+
+---
+
+## 🎯 Goals
+- 🚀 Build real-world impactful projects  
+- 📚 Learn AI/ML & Data Science deeply  
+- 💼 Get a strong role in the tech industry  
+
+---
+
+## 📌 Currently
+- Practicing DSA daily  
+- Building React projects  
+- Learning backend & system design  
+
+---
+
+## 🤝 Let's Connect
+- Open to collaboration and learning opportunities  
+
+---
+
+⭐ *Consistency + Curiosity = Growth*
